@@ -21,7 +21,6 @@
 [instagram]: https://www.instagram.com/yculusoy/
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 
-<br />
 
 ### 🔧 Languages and Tools:
 
