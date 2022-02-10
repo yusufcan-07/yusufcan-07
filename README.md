@@ -30,7 +30,7 @@
 [<img align="left" alt="Git" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" width="26px" 
-src="https://w7.pngwing.com/pngs/266/559/png-transparent-cat-stencil-social-media-github-computer-icons-logo-github-mammal-cat-like-mammal-carnivoran.png" />][github]
+src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
 [<img align="left" alt="Flutter" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
 [<img align="left" alt="Python" width="26px" 
@@ -44,9 +44,9 @@ src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png"
 [flutter]: https://flutter.dev/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/yusufcan-07/
 [python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
+[ios]: https://www.apple.com/ios/ios-15/
 
 <br />
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
