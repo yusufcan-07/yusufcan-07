@@ -27,4 +27,17 @@
 
 ### 🔧 Languages and Tools:
 
+[<img align="left" alt="Git" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" 
+src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" />][github]
+[<img align="left" alt="Flutter" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Python" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="Android" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
+[<img align="left" alt="Ios" width="26px" 
+src="https://data.tooliphone.net/iskin/themes/1478/1207/preview-256.png" />][ios]
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
