@@ -35,7 +35,7 @@ src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />][da
 [<img align="left" alt="Flutter" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
 [<img align="left" alt="Firebase" width="26px" 
-src="https://icon2.cleanpng.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg" />][firebase]
+src="https://pngset.com/images/firebase-icon-firebase-icon-triangle-lighting-paper-art-transparent-png-2937754.png" />][firebase]
 [<img align="left" alt="Android" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Ios" width="26px" 
