@@ -28,9 +28,9 @@
 ### 🔧 Languages and Tools:
 
 [<img align="left" alt="Git" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" width="26px" 
-src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" />][github]
+src="https://w7.pngwing.com/pngs/266/559/png-transparent-cat-stencil-social-media-github-computer-icons-logo-github-mammal-cat-like-mammal-carnivoran.png" />][github]
 [<img align="left" alt="Flutter" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
 [<img align="left" alt="Python" width="26px" 
@@ -38,6 +38,15 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 [<img align="left" alt="Android" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Ios" width="26px" 
-src="https://data.tooliphone.net/iskin/themes/1478/1207/preview-256.png" />][ios]
+src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png" />][ios]
+<br />
 
+[flutter]: https://flutter.dev/
+[git]: https://git-scm.com/
+[android]: https://www.android.com/
+[github]: https://github.com/IbrahimTalha0
+[python]: https://www.python.org/
+[ios]: https://www.apple.com/ios/ios-14/
+
+<br />
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
