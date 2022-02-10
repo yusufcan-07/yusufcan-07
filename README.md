@@ -9,8 +9,8 @@
 - ₿ Interests: Investments on NFT and cryptocurrencies ₿
 
 <br />
-<br />
-### :mailbox_with_mail: Connect with me:
+
+:mailbox_with_mail: Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
