@@ -4,7 +4,7 @@
 
 
 - :computer: I am currently working on Computer Engineering as a sophomore student.
-- :notebook: I am currently learning Java to develop data structures and Dart to desing mobile applications. :satisfied:
+- :notebook: I am currently learning "Java" to develop data structures and "Dart" to design mobile applications. :satisfied:
 - :exclamation: I am looking to collaborate on a summer internship.
 - ₿ Interests: Investments on NFT and cryptocurrencies ₿
 
