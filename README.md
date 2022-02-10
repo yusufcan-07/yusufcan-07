@@ -36,6 +36,12 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Ios" width="26px" 
 src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png" />][ios]
+[<img align="left" alt="Java" width="26px" 
+src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" />][java]
+[<img align="left" alt="Dart" width="26px" 
+src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />][dart]
+
+
 <br />
 
 [flutter]: https://flutter.dev/
@@ -44,6 +50,8 @@ src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png"
 [github]: https://github.com/yusufcan-07/
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-15/
+[dart]: https://dart.dev/
+[java]: https://www.java.com/en/
 
 <br />
 <br />
