@@ -49,6 +49,5 @@ src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png"
 
 <br />
 <br />
-<br />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
