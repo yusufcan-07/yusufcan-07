@@ -9,6 +9,7 @@
 - ₿ Interests: Investments on NFT and cryptocurrencies ₿
 
 <br />
+<br />
 ### :mailbox_with_mail: Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -48,6 +49,6 @@ src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png"
 
 <br />
 <br />
-
+<br />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
