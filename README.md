@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="Ios" width="26px" 
 src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png" />][ios]
 [<img align="left" alt="Java" width="26px" 
-src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" />][java]
+src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" />][java]
 [<img align="left" alt="Dart" width="26px" 
 src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />][dart]
 
