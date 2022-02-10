@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/rAFw2FOkQrxn2/giphy.gif" width="auto">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0d6ec104884591.5f6cab1f1a1c7.gif" width="auto">
 
 
 ## Hi there I am Yusuf - aka YCU
@@ -12,8 +12,8 @@
 - 
 
 
-### Connect with me:
+### 🔗 Connect with me:
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
