@@ -12,7 +12,7 @@
 - ₿ Interests: Investments on NFT and cryptocurrencies ₿
 
 
-### 🔗 Connect with me:
+### :mailbox_with_mail: Connect with me:
 
 
 
