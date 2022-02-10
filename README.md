@@ -34,6 +34,8 @@ src="https://icon-library.com/images/icon-java/icon-java-6.jpg" />][java]
 src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />][dart]
 [<img align="left" alt="Flutter" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Firebase" width="26px" 
+src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" />][firebase]
 [<img align="left" alt="Android" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Ios" width="26px" 
@@ -52,6 +54,7 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 [ios]: https://www.apple.com/ios/ios-15/
 [dart]: https://dart.dev/
 [java]: https://www.java.com/en/
+[firebase]: https://firebase.google.com/
 
 <br />
 <br />
