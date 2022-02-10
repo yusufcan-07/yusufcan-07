@@ -8,7 +8,7 @@
 - :exclamation: I am looking to collaborate on a summer internship.
 - ₿ Interests: Investments on NFT and cryptocurrencies ₿
 
-
+<br />
 ### :mailbox_with_mail: Connect with me:
 
 
@@ -23,6 +23,7 @@
 [instagram]: https://www.instagram.com/yculusoy/
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 
+<br />
 <br />
 
 ### 🔧 Languages and Tools:
