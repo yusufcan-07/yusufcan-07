@@ -28,18 +28,18 @@
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" width="26px" 
 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
-[<img align="left" alt="Flutter" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
-[<img align="left" alt="Python" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Android" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Ios" width="26px" 
-src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png" />][ios]
 [<img align="left" alt="Java" width="26px" 
 src="https://icon-library.com/images/icon-java/icon-java-6.jpg" />][java]
 [<img align="left" alt="Dart" width="26px" 
 src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />][dart]
+[<img align="left" alt="Flutter" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Android" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
+[<img align="left" alt="Ios" width="26px" 
+src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png" />][ios]
+[<img align="left" alt="Python" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 
 
 <br />
