@@ -60,3 +60,4 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 <br />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/yusufcan-07?theme=dark&font=Alata&ext=activity)
