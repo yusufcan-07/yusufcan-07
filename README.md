@@ -1,5 +1,5 @@
 
-## Hi there, I am Yusuf - aka YCU
+## Hi there, I am Yusuf
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0d6ec104884591.5f6cab1f1a1c7.gif" width="500" height="320" />
 
 
