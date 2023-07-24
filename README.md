@@ -11,7 +11,7 @@
 
 ### :mailbox_with_mail: Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://www.svgrepo.com/show/922/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 
