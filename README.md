@@ -64,7 +64,7 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 <br />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufcan-07l&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufcan-07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yusufcan-07?theme=dark&font=Alata&ext=activity)
