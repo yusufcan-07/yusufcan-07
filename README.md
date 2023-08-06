@@ -4,9 +4,9 @@
 
 
 - :computer: I am currently working on Computer Engineering as a senior student.
-- :notebook: I am currently learning "Java" to develop data structures and "Dart" to design mobile applications. :satisfied:
-- :exclamation: I am looking to collaborate on an internship.
-- ₿ Interests: Investments on NFT and cryptocurrencies ₿
+- :notebook: I am currently learning Full-Stack development. :satisfied:
+- :exclamation: I am looking to collaborate on a long-term internship.
+- ₿ Interests: Investments in NFT, cryptocurrencies and stock markets ₿
 
 
 ### :mailbox_with_mail: Connect with me:
