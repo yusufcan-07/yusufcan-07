@@ -4,7 +4,7 @@
 
 
 - :computer: I am currently working on Computer Engineering as a senior student.
-- :notebook: I am currently learning Full-Stack development. :satisfied:
+- :notebook: I am currently learning React to develop web apps. :satisfied:
 - :exclamation: I am looking to collaborate on a long-term internship.
 - ₿ Interests: Investments in NFT, cryptocurrencies and stock markets ₿
 
