@@ -3,8 +3,8 @@
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0d6ec104884591.5f6cab1f1a1c7.gif" width="500" height="320" />
 
 
-- :computer: I am currently working on Computer Engineering as a senior student.
-- :notebook: Learning React to develop web apps.
+- :computer: I am currently studying on Computer Engineering as a senior student.
+- :notebook: I can design mobile apps with Flutter and now I am learning React to develop web apps and backend with Java.
 - :exclamation: I am looking to collaborate on a long-term internship.
 - ₿ Interests: Investments in NFT, cryptocurrencies and stock markets ₿
 
