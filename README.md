@@ -9,7 +9,7 @@
 - ₿ Interests: Investments in NFT, cryptocurrencies and stock markets ₿
 
 
-## :mailbox_with_mail: Connect with me:
+## 📬 Connect with me:
 
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
