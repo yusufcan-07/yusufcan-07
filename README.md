@@ -1,25 +1,19 @@
 
-# Hi there, I am Yusuf
-<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0d6ec104884591.5f6cab1f1a1c7.gif" width="500" height="320" />
+# Hi, I'm Yusuf
 
 
-- :computer: I am currently studying on Computer Engineering as a senior student.
-- :notebook: I can design mobile apps with Flutter and now I am learning React to develop web apps and backend with Java.
-- :exclamation: I am looking to collaborate on a long-term internship.
-- ₿ Interests: Investments in NFT, cryptocurrencies and stock markets ₿
+- I am currently studying on Computer Engineering as a senior student.
+- I can design mobile apps with Flutter and now I am learning React to develop web apps and backend with Java.
+
 
 
 ## 📬 Connect with me:
 
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-
 
 <br />
 
-
-[instagram]: https://www.instagram.com/yculusoy/
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 
 
