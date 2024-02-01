@@ -2,9 +2,8 @@
 # Hi, I'm Yusuf
 
 
-- I am currently studying on Computer Engineering as a senior student.
-- I can design mobile apps with Flutter and now I am learning React to develop web apps and backend with Java.
-
+- I am currently studying Computer Engineering as a senior student. I would like to see myself as a backend developer in the future.
+- I can design mobile apps with Flutter, and I also have a dense desire to learn blockchain.
 
 
 ## 📬 Connect with me:
