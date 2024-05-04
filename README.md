@@ -18,9 +18,9 @@
 
 ## 🔧 Languages and Tools:
 
-[<img align="left" alt="Csharp" width="26px" 
+[<img align="left" alt="Git" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />]
-[<img align="left" alt="Netcore" width="26px" 
+[<img align="left" alt="Git" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />]
 [<img align="left" alt="Git" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
