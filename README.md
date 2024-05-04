@@ -22,6 +22,10 @@
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" width="26px" 
 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
+[<img align="left" alt="Csharp" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />][csharp]
+[<img align="left" alt="Netcore" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][netcore]
 [<img align="left" alt="Java" width="26px" 
 src="https://icon-library.com/images/icon-java/icon-java-6.jpg" />][java]
 [<img align="left" alt="Dart" width="26px" 
@@ -36,10 +40,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/apple-512.png" />][ios]
 [<img align="left" alt="Python" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Csharp" width="26px" 
-src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" />][csharp]
-[<img align="left" alt="Netcore" width="26px" 
-src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />][netcore]
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
