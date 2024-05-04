@@ -46,7 +46,8 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
-
+[csharp]: https://dotnet.microsoft.com/en-us/languages/csharp/
+[netcore]: https://dotnet.microsoft.com/en-us/download/
 [flutter]: https://flutter.dev/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
