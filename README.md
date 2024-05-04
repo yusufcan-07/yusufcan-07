@@ -10,10 +10,12 @@
 
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/256/3095/3095583.png?semt=ais_hybrid" />][mailme]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
+[mailme]: mailto:ulusoyyusufcan@outlook.com
 
 
 ## 🔧 Languages and Tools:
