@@ -10,7 +10,7 @@
 
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
-[<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/256/3095/3095583.png?semt=ais_hybrid" />][mailme]
+[<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/512/8643/8643765.png" />][mailme]
 
 <br />
 
