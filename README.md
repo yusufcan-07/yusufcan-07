@@ -18,7 +18,10 @@
 
 ## 🔧 Languages and Tools:
 
-
+[<img align="left" alt="Csharp" width="26px" 
+src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" />][csharp]
+[<img align="left" alt="Netcore" width="26px" 
+src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" />][netcore]
 [<img align="left" alt="Git" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" width="26px" 
