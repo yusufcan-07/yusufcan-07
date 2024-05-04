@@ -18,10 +18,10 @@
 
 ## 🔧 Languages and Tools:
 
-[<img align="left" alt="Csharp" width="26px" 
-src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" />]
-[<img align="left" alt="Netcore" width="26px" 
-src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />]
+[<img align="left" alt="Git" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
+[<img align="left" alt="Git" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="Git" width="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="GitHub" width="26px" 
@@ -46,6 +46,7 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
+
 [flutter]: https://flutter.dev/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
