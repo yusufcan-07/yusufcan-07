@@ -2,7 +2,7 @@
 # Hi, I'm Yusuf
 
 
-- I am currently studying Computer Engineering as a senior student. I am working on backend engineering with .NET Core right now.
+- I am a newly graduated software engineer who is working on backend development with .NET Core right now.
 - I can design mobile apps with Flutter, and I also have a dense desire to learn blockchain.
 
 
