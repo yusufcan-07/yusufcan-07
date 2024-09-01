@@ -70,4 +70,5 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 HackerRank Profile: https://www.hackerrank.com/profile/yusufcan_ulusoy
 
 <br />
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yusufcan-07?theme=dark&font=Alata&ext=activity)
