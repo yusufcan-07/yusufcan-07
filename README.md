@@ -11,11 +11,13 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/512/8643/8643765.png" />][mailme]
+[<img align="left" alt="medium | MailMe" width="24px" src="https://computercity.com/wp-content/uploads/1_jfdwtvU6V6g99q3G7gq7dQ1.png" />][mailme]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 [mailme]: mailto:ulusoyyusufcan@outlook.com
+[medium]: https://medium.com/@yusufcan.ulusoy
 
 
 ## 🔧 Languages and Tools:
