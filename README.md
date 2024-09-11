@@ -16,7 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 [mailme]: mailto:ulusoyyusufcan@outlook.com
 <a href="https://medium.com/@yusufcan.ulusoy">
-  <img src="https://repository-images.githubusercontent.com/410944720/783ebec4-d13b-4a53-99a6-1e79f824c9c4" alt="Medium" width="75"/>
+  <img src="https://static-00.iconduck.com/assets.00/medium-icon-2048x1135-1x2mqzch.png" alt="Medium" width="75"/>
 </a>
 
 <a href="[https://medium.com/@yusufcan.ulusoy](https://www.hackerrank.com/profile/yusufcan_ulusoy)">
