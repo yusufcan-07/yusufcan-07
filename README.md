@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/04029986-9a7e-45af-a467-afdce49c3d77)
 # Hi, I'm Yusuf
 
 
@@ -16,9 +16,8 @@
 
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 [mailme]: mailto:ulusoyyusufcan@outlook.com
-
 <a href="https://medium.com/@yusufcan.ulusoy">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium" width="100"/>
+  <img src="https://png.pngitem.com/pimgs/s/214-2148075_medium-new-logo-2017-hd-png-download.png" alt="Medium" width="100"/>
 </a>
 
 <a href="[https://medium.com/@yusufcan.ulusoy](https://www.hackerrank.com/profile/yusufcan_ulusoy)">
