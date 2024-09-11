@@ -18,7 +18,7 @@
 [mailme]: mailto:ulusoyyusufcan@outlook.com
 
 <a href="https://medium.com/@yusufcan.ulusoy">
-  <img src="https://www.logo.wine/a/logo/Medium_(website)/Medium_(website)-Logo.wine.svg" alt="Medium" width="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium" width="100"/>
 </a>
 
 <a href="[https://medium.com/@yusufcan.ulusoy](https://www.hackerrank.com/profile/yusufcan_ulusoy)">
