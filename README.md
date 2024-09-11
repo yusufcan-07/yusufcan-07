@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/04029986-9a7e-45af-a467-afdce49c3d77)
 # Hi, I'm Yusuf
 
 
