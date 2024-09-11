@@ -16,15 +16,13 @@
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 [mailme]: mailto:ulusoyyusufcan@outlook.com
 <a href="https://medium.com/@yusufcan.ulusoy">
-  <img src="https://png.pngitem.com/pimgs/s/214-2148075_medium-new-logo-2017-hd-png-download.png" alt="Medium" width="100"/>
+  <img src="https://png.pngitem.com/pimgs/s/214-2148075_medium-new-logo-2017-hd-png-download.png" alt="Medium" width="75"/>
 </a>
 
 <a href="[https://medium.com/@yusufcan.ulusoy](https://www.hackerrank.com/profile/yusufcan_ulusoy)">
-  <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="Medium" width="100"/>
+  <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="Medium" width="75"/>
 </a>
-
 <br />
-
 ## 🔧 Languages and Tools:
 
 [<img align="left" alt="Git" width="26px" 
