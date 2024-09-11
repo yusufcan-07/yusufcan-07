@@ -10,16 +10,15 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/512/8643/8643765.png" />][mailme]
+[<img align="left" alt="mailme | MailMe" width="24px" src="https://static-00.iconduck.com/assets.00/medium-icon-2048x1135-1x2mqzch.png" />][medium]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 [mailme]: mailto:ulusoyyusufcan@outlook.com
-<a href="https://medium.com/@yusufcan.ulusoy">
-  <img src="https://static-00.iconduck.com/assets.00/medium-icon-2048x1135-1x2mqzch.png" alt="Medium" width="75"/>
-</a>
+[medium]:https://medium.com/@yusufcan.ulusoy
 
-<a href="[https://medium.com/@yusufcan.ulusoy](https://www.hackerrank.com/profile/yusufcan_ulusoy)">
+<a href="https://www.hackerrank.com/profile/yusufcan_ulusoy">
   <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="Medium" width="75"/>
 </a>
 <br />
