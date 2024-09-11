@@ -17,8 +17,18 @@
 
 [linkedin]: https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/
 [mailme]: mailto:ulusoyyusufcan@outlook.com
-[medium]: https://medium.com/@yusufcan.ulusoy
 
+
+## Medium & HackerRank:
+
+<a href="https://medium.com/@yusufcan.ulusoy">
+  <img src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium" width="300"/>
+</a>
+
+HackerRank: [https://www.hackerrank.com/profile/yusufcan_ulusoy](https://www.hackerrank.com/profile/yusufcan_ulusoy)
+
+
+<br />
 
 ## 🔧 Languages and Tools:
 
@@ -68,9 +78,6 @@ src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f3092
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufcan-07&show_icons=true&theme=blue-green) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufcan-07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br />
-HackerRank Profile: https://www.hackerrank.com/profile/yusufcan_ulusoy
-
 <br />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yusufcan-07?theme=dark&font=Alata&ext=activity)
