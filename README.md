@@ -11,7 +11,6 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/512/8643/8643765.png" />][mailme]
-[<img align="left" alt="medium | MailMe" width="32px" src="https://computercity.com/wp-content/uploads/1_jfdwtvU6V6g99q3G7gq7dQ1.png" />][mailme]
 
 <br />
 
@@ -22,7 +21,7 @@
 ## Medium & HackerRank:
 
 <a href="https://medium.com/@yusufcan.ulusoy">
-  <img src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium" width="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png" alt="Medium" width="150"/>
 </a>
 
 HackerRank: [https://www.hackerrank.com/profile/yusufcan_ulusoy](https://www.hackerrank.com/profile/yusufcan_ulusoy)
