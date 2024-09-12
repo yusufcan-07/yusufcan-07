@@ -10,7 +10,7 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/512/8643/8643765.png" />][mailme]
-[<img align="left" alt="mailme | MailMe" width="24px" src="https://static-00.iconduck.com/assets.00/medium-icon-2048x1135-1x2mqzch.png" />][medium]
+[<img align="left" alt="mailme | MailMe" width="28px" src="https://static-00.iconduck.com/assets.00/medium-icon-2048x1135-1x2mqzch.png" />][medium]
 [<img align="left" alt="mailme | MailMe" width="75px" src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1"/>][hackerrank]
 
 <br />
