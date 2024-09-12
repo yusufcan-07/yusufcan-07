@@ -19,11 +19,11 @@
 [medium]:https://medium.com/@yusufcan.ulusoy
 
 <a href="https://www.hackerrank.com/profile/yusufcan_ulusoy">
-  <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="Medium" width="75"/>
+  <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="hackerrank" width="75"/>
 </a>
 
 
-<br clear="left" />
+<br />
 
 ## 🔧 Languages and Tools:
 
