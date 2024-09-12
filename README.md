@@ -24,6 +24,7 @@
 
 
 <br />
+
 ## 📬 Connect with me:
 <a href="https://www.linkedin.com/in/yusufcan-ulusoy-ab7660199/">
   <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
@@ -41,6 +42,7 @@
   <img align="left" alt="hackerrank | HackerRank" width="24px" src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" />
 </a>
 <br clear="left" />
+
 ## 🔧 Languages and Tools:
 
 [<img align="left" alt="Git" width="26px" 
