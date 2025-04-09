@@ -1,15 +1,11 @@
 # Hi 👋, I'm Yusuf
 
-
-- 💻 I am a newly graduated Computer Engineer
-- 🔭 I am working on backend development with .NET Core right now.
-- 📱 I can design mobile apps with Flutter, and I also have a dense desire to learn blockchain.
-- 🤝 I am looking to collaborate on Software Engineer position.
-- 👨‍💼 I always try to improve my skills and adapt to new technologies.
-
+- I am a newly graduated Computer Engineer
+- I am working on backend development with .NET Core right now.
+- I can design mobile apps with Flutter, and I also have a dense desire to learn blockchain.
+- I always try to improve my skills and adapt to new technologies.
 
 ## 📬 Connect with me:
-
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 [<img align="left" alt="mailme | MailMe" width="24px" src="https://cdn-icons-png.freepik.com/512/8643/8643765.png" />][mailme]
